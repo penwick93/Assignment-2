@@ -1,0 +1,31 @@
+body{
+	background-color: lightblue;
+	font-size: normal;
+	font-family: verdana;
+	text-align: center;
+	width: 50%;
+	padding-left: 25%;
+}
+
+h1{
+	color: coral;
+	font-size: 40px;
+	font: bold;
+	text-align: center;
+}
+
+p{
+	text-align: center;
+	font-color: white;
+	font-size: 20px;
+}
+
+a{
+	text-decoration: bold;
+	color: black;
+}
+
+form{
+	width: 500px;
+	padding-left: 100px;
+}
